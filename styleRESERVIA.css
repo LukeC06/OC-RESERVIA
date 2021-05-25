@@ -1,9 +1,18 @@
 
 
-header { display: flex;
-    flex-direction: row; 
-    justify-content: space-around;
-    align-content: baseline;}
+header {
+  margin: 0 0 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between; 
+}
+
+
+body {
+  padding: 2em;
+}
+
 
 
 p {color: blue;
